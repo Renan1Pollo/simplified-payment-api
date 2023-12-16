@@ -6,6 +6,7 @@
 
 This project is an API built using **Java, Java Spring, H2 as the database.** 
 
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -85,6 +86,5 @@ POST /transactions - Register a new Transaction between users (COMMON to COMMON 
 ## Database
 The project utilizes [H2 Database](https://www.h2database.com/html/tutorial.html) as the database. 
 
-
-
-
+## Acknowledgements
+This project was inspired by the work of [Fernanda-Kipper](https://github.com/Fernanda-Kipper). Special thanks to her for providing the initial idea and inspiration. You can find her on GitHub [here](https://github.com/Fernanda-Kipper).
